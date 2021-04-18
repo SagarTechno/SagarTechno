@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SagarTechno
+- 👋 Hi, I’m Sagar Kaushal
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Asp.net Core 5.0
 - 💞️ I’m looking to collaborate on ...
